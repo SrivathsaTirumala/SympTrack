@@ -136,3 +136,6 @@ if selected == 'Heart Disease Prediction':
                 st.success(f"The patient **{patient_name}** (ID: {patient_id}) does not have heart disease")
         except ValueError:
             st.error("Please enter valid numerical values for all input fields.")
+
+
+# To run this code, use : python3 -m streamlit run main.py (or) streamlit run main.py
