@@ -32,7 +32,6 @@ This project demonstrates the application of machine learning (ML) to predict he
 
 ### Deployment
 - Deployed using Streamlit as an intuitive web application.
-- Provides visualized predictions and user-friendly interaction.
 
 ## Results
 - Achieved high accuracy and reliability in predicting heart disease and diabetes.
@@ -51,7 +50,7 @@ This project demonstrates the application of machine learning (ML) to predict he
 ## Technologies Used
 - **Programming Languages**: Python
 - **Libraries**: Streamlit, NumPy, Pandas, Scikit-learn, SHAP
-- **Models**: Random Forest, Neural Networks
+- **Models**: Random Forest, Logistic Regression
 - **Tools**: Visual Studio Code, GitHub
 
 ## References
@@ -61,5 +60,4 @@ This project demonstrates the application of machine learning (ML) to predict he
 4. Lundberg, S. M., & Lee, S. I. (2017). A Unified Approach to Interpreting Model Predictions. *Advances in Neural Information Processing Systems*, 30, 4765–4774.
 5. Rajkomar, A., Dean, J., & Kohane, I. (2019). Machine Learning in Medicine. *New England Journal of Medicine*, 380(14), 1347–1358.
 
-## Acknowledgments
-We thank the team at ACE Engineering College for their guidance and support throughout the development of this project. Special thanks to Mr. M. Hari Krishna, Assistant Professor, Department of CSE (Data Science), for his mentorship.
+## Made with ❤️ by Srivathsa Tirumala.
