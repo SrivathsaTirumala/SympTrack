@@ -60,4 +60,14 @@ This project demonstrates the application of machine learning (ML) to predict he
 4. Lundberg, S. M., & Lee, S. I. (2017). A Unified Approach to Interpreting Model Predictions. *Advances in Neural Information Processing Systems*, 30, 4765–4774.
 5. Rajkomar, A., Dean, J., & Kohane, I. (2019). Machine Learning in Medicine. *New England Journal of Medicine*, 380(14), 1347–1358.
 
+## Step by Step procedure to run this project
+  # Install the requirements
+## 1. pip install -r requirements.txt
+  # Run the project using jupyter notebook
+## 2. Run each cell by using Shift+Enter
+  # To run the streamlit file,  Use
+## 3. python3 -m streamlit run main.py
+   
+## You may need to install additional libraries for running the jupyter notebooks.
+
 ## Made with ❤️ by Srivathsa Tirumala.
