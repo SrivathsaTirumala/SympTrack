@@ -70,4 +70,4 @@ This project demonstrates the application of machine learning (ML) to predict he
    
 ## You may need to install additional libraries for running the jupyter notebooks.
 
-## Made with ❤️ by Srivathsa Tirumala.
+## 
