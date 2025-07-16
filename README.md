@@ -69,5 +69,3 @@ This project demonstrates the application of machine learning (ML) to predict he
 ## 3. python3 -m streamlit run main.py
    
 ## You may need to install additional libraries for running the jupyter notebooks.
-
-## Made with ❤️ by Srivathsa Tirumala.
