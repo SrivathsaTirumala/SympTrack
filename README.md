@@ -1,5 +1,8 @@
 # Predicting Heart Disease and Diabetes Using Machine Learning
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-brightgreen?style=for-the-badge&logo=streamlit)](https://symptrack-9p4gf4sjf7jcdwybellvfd.streamlit.app/)
+
+
 ## Overview
 This project demonstrates the application of machine learning (ML) to predict heart disease and diabetes, two of the most significant global health challenges. By leveraging shared risk factors such as glucose levels, cholesterol, BMI, and age, the system provides a unified predictive model that offers superior accuracy, scalability, and real-time adaptability. The system employs advanced ML algorithms like Random Forest and Neural Networks, combined with feature engineering, data preprocessing, and hyperparameter tuning, to deliver actionable insights for healthcare providers.
 
